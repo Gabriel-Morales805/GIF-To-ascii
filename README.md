@@ -1,4 +1,4 @@
-Greetings My Nmae is Tonk :v
+Greetings My Name is Tonk :v
 
 I am trying to learn to code.
 
