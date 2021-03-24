@@ -1,7 +1,11 @@
-Greetings My Name is Tonk :v
+Requirements:
 
-I am trying to learn to code.
+Visual Studio 2019 or 2017.
 
-But i am a nooby.
+Microsoft.Net 2.0
 
-But thats all :v
+How to build?
+
+Press ctrl+f5
+
+The code is in Program.cs (do NOT open it in notepad or notepad++) Edit the code only in visual studio.
